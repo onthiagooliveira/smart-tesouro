@@ -1,0 +1,36 @@
+backend/api/HELP.md
+backend/api/target/
+backend/api/.mvn/wrapper/maven-wrapper.jar
+!**/backend/api/src/main/**/target/
+!**/backend/api/src/test/**/target/
+
+### STS ###
+backend/api/.apt_generated
+backend/api/.classpath
+backend/api/.factorypath
+backend/api/.project
+backend/api/.settings
+backend/api/.springBeans
+backend/api/.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Credenciais sigilosas ###
+backend/api/.env
