@@ -34,3 +34,8 @@ build/
 
 ### Credenciais sigilosas ###
 backend/api/.env
+
+# Frontend (Node)
+node_modules/
+dist/
+build/
