@@ -1,4 +1,4 @@
-# Smart Tesouro API
+# Analytics de Renda Fixa do Zero
 
 Sistema inteligente para acompanhamento de títulos públicos, focado em alta performance e escalabilidade.
 
